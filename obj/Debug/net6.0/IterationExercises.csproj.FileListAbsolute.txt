@@ -1,0 +1,15 @@
+C:\Users\patri\source\repos\IterationExercises\IterationExercises\obj\Debug\net6.0\IterationExercises.csproj.AssemblyReference.cache
+C:\Users\patri\source\repos\IterationExercises\IterationExercises\obj\Debug\net6.0\IterationExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\source\repos\IterationExercises\IterationExercises\obj\Debug\net6.0\IterationExercises.AssemblyInfoInputs.cache
+C:\Users\patri\source\repos\IterationExercises\IterationExercises\obj\Debug\net6.0\IterationExercises.AssemblyInfo.cs
+C:\Users\patri\source\repos\IterationExercises\IterationExercises\obj\Debug\net6.0\IterationExercises.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\IterationExercises\IterationExercises\bin\Debug\net6.0\IterationExercises.exe
+C:\Users\patri\source\repos\IterationExercises\IterationExercises\bin\Debug\net6.0\IterationExercises.deps.json
+C:\Users\patri\source\repos\IterationExercises\IterationExercises\bin\Debug\net6.0\IterationExercises.runtimeconfig.json
+C:\Users\patri\source\repos\IterationExercises\IterationExercises\bin\Debug\net6.0\IterationExercises.dll
+C:\Users\patri\source\repos\IterationExercises\IterationExercises\bin\Debug\net6.0\ref\IterationExercises.dll
+C:\Users\patri\source\repos\IterationExercises\IterationExercises\bin\Debug\net6.0\IterationExercises.pdb
+C:\Users\patri\source\repos\IterationExercises\IterationExercises\obj\Debug\net6.0\IterationExercises.dll
+C:\Users\patri\source\repos\IterationExercises\IterationExercises\obj\Debug\net6.0\ref\IterationExercises.dll
+C:\Users\patri\source\repos\IterationExercises\IterationExercises\obj\Debug\net6.0\IterationExercises.pdb
+C:\Users\patri\source\repos\IterationExercises\IterationExercises\obj\Debug\net6.0\IterationExercises.genruntimeconfig.cache
